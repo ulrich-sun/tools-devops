@@ -7,11 +7,12 @@ NB: Je Travaille dans un environnement Linux et a cette date , je travaillais su
 
 ## 
 ---------------
-****Prenom:**** Ulrich
+**Prenom:** Ulrich
 
-****Nom***: NOUMSI
+**Nom**: NOUMSI
 
-****Linkedin:**** https://www.linkedin.com/in/ulrich-steve-noumsi/ 
+**Linkedin:** https://www.linkedin.com/in/ulrich-steve-noumsi/ 
+
 ---------------
 
 ## Terraform
