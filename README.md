@@ -7,9 +7,9 @@ NB: Je Travaille dans un environnement Linux et a cette date , je travaillais su
 
 ## 
 ---------------
-**Prenom:** Jean Michel
+**Prenom:** Ulrich Steve
 
-**Nom**: MASIKINI
+**Nom**: NOUMSI
 
 **Linkedin:** https://www.linkedin.com/in/ulrich-steve-noumsi/ 
 
