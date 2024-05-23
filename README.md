@@ -14,6 +14,11 @@ NB: Je Travaille dans un environnement Linux et a cette date , je travaillais su
 **Linkedin:** https://www.linkedin.com/in/ulrich-steve-noumsi/ 
 
 ---------------
+## Kubens & Kubectl
+```bash
+curl -sS https://webi.sh/kubens | sh
+curl -sS https://webi.sh/kubectx | sh
+```
 
 ## Install Precommit tools
 ```bash
